@@ -1,6 +1,7 @@
 Tribute Page project
 
-This is a protfolio project on freeCodeCamp 
+This is a simple html, css protfolio project on freeCodeCamp 
+
 
 https://alenskaria.github.io/tributePage/
 
