@@ -30,6 +30,12 @@ h1{
     border-radius: 8px;
 }
 
+@media (max-width: 460px) {
+    #main {
+      margin: 0;
+    }
+}
+  
 img {
     max-width: 100%;
     display: block;
@@ -44,7 +50,12 @@ img {
     padding: 20px 10px;
     background-color: rgba(223,200,44,1);   
     border-radius: 5px;
-
+}
+@media (max-width: 460px) {
+#tribute-info{
+    margin: 10px 5px;
+    padding: 10px 5px;
+    }
 }
 #tribute-info h4{
     font-size: 2rem;
@@ -58,4 +69,8 @@ ul{
     max-width: 800px;
     margin: auto;
 }
-  
+@media (max-width: 460px) { 
+ul{
+    padding:2rem 5rem;
+    }
+}
